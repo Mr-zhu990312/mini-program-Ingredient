@@ -1,0 +1,4 @@
+<!--pages/cf/cf.wxml-->
+<view><checkbox checked="{{ischecked?true:false}}"></checkbox></view>
+<view>{{num1+num2}}   ||   {{char1+char2}}</view>
+<view><checkbox checked="{{num3>=20}}"></checkbox></view>

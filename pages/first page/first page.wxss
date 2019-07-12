@@ -1,0 +1,258 @@
+/* pages/first page/first page.wxss */
+
+swiper {
+  width: 100%;
+  height: 300rpx;
+}
+
+swiper-itemm {
+}
+
+image {
+  width: 100%;
+}
+
+#box {
+  height: 200rpx;
+  padding: 10rpx;
+  width: 100%;
+  background-color: #82c6c7;
+}
+
+.search {
+  width: 80%;
+}
+
+.search_arr {
+  border: 1px solid #d0d0d0;
+  border-radius: 30rpx;
+  margin-left: 20rpx;
+}
+
+.search_arr input {
+  margin-left: 60rpx;
+  height: 60rpx;
+  border-radius: 5px;
+  border-color: #c2dad7;
+}
+
+.bc_text {
+  line-height: 68rpx;
+  height: 68rpx;
+  margin-top: 34rpx;
+}
+
+.news {
+  margin-left: 5rpx;
+  width: 15%;
+  line-height: 150%;
+  text-align: center;
+  border-radius: 20rpx;
+}
+
+.page_row {
+  display: flex;
+  width: 90%;
+  margin-left: 5%;
+  flex-direction: row;
+}
+
+.searchcion {
+  margin: 10rpx 10rpx 10rpx 10rpx;
+  position: absolute;
+  left: 550rpx;
+  z-index: 2;
+  width: 20px;
+  height: 20px;
+  color: #f4f7f7;
+}
+
+.locate {
+  position: absolute;
+  top: 92rpx;
+  left: 124rpx;
+}
+
+.loctext {
+  position: absolute;
+  top: 92rpx;
+  left: 170rpx;
+  color: #f4f7f7;
+}
+
+.fangshai {
+  position: absolute;
+  top: 92rpx;
+  left: 334rpx;
+  color: #f4f7f7;
+}
+
+.star {
+  position: absolute;
+  top: 96rpx;
+  left: 474rpx;
+  color: #f4f7f7;
+}
+
+.weather {
+  position: absolute;
+  top: 158rpx;
+  left: 120rpx;
+}
+
+.weatext {
+  position: absolute;
+  top: 152rpx;
+  left: 170rpx;
+  color: #f4f7f7;
+}
+
+.baoshi {
+  position: absolute;
+  top: 152rpx;
+  left: 334rpx;
+  color: #f4f7f7;
+}
+
+.fullstar {
+  position: absolute;
+  top: 152rpx;
+  left: 474rpx;
+  color: #f4f7f7;
+}
+
+.top {
+  margin-left: 8%;
+}
+
+.top2 {
+  margin-left: 8%;
+}
+
+#box1 {
+  width: 40%;
+  height: 140rpx;
+  border-right: 4rpx solid #F7F7F7;
+  border-bottom: 4rpx solid #F7F7F7;
+}
+
+.ftest {
+  display: inline-block;
+  margin-left: 5%;
+}
+
+.ftestext {
+  vertical-align: top;
+  line-height: 60rpx;
+  display: inline-block;
+  margin-left: 30rpx;
+  color: #84d1ca;
+  font-size: 36rpx;
+}
+
+.w1 {
+  color: #b9ccca;
+  margin-left: 10%;
+}
+
+#box2 {
+  position: absolute;
+  top: 664rpx;
+  left: 360rpx;
+  width: 40%;
+  height: 140rpx;
+  border-left: 4rpx solid #F7F7F7;
+  border-bottom: 4rpx solid #F7F7F7;
+}
+
+.zinter {
+  flex-direction: row;
+  display: inline-block;
+  margin-left: 25rpx;
+}
+
+.zinterext {
+  color: #84d1ca;
+  font-size: 36rpx;
+  vertical-align: top;
+  line-height: 60rpx;
+  display: inline-block;
+  margin-left: 40rpx;
+}
+
+.w2 {
+  color: #b9ccca;
+  margin-left: 10%;
+}
+#box3 {
+  width: 40%;
+  height: 140rpx;
+  border-right: 4rpx solid #F7F7F7;
+  border-bottom: 4rpx solid #F7F7F7;
+}
+
+.wxexpose {
+  display: inline-block;
+  margin-left: 10%;
+  margin-top: 15rpx;
+}
+
+.whtext {
+  vertical-align: top;
+  line-height: 60rpx;
+  display: inline-block;
+  margin-left: 20rpx;
+  color: #84d1ca;
+  font-size: 36rpx;
+  margin-top: 10rpx;
+}
+
+.w3 {
+  color: #b9ccca;
+  margin-left: 10%;
+}
+#box4 {
+  position: absolute;
+  top: 800rpx;
+  left: 360rpx;
+  width: 40%;
+  height: 145rpx;
+  border-left: 4rpx solid #F7F7F7;
+  border-bottom: 4rpx solid #F7F7F7;
+}
+
+.year_rank {
+  flex-direction: row;
+  display: inline-block;
+  margin-left:25rpx;
+  margin-top: 20rpx;
+}
+
+.yeartext {
+ color: #84d1ca;
+  font-size: 36rpx;
+  vertical-align: top;
+  line-height: 60rpx;
+  display: inline-block;
+  margin-left: 40rpx;
+  margin-top: 20rpx;
+}
+
+.w4 {
+  color: #b9ccca;
+  margin-left: 10%;
+}
+.top3
+{
+  margin-left: 8%;
+}
+.word{
+  color: #C1C1C1;
+  font-size: 40rpx;
+  margin-left: 100rpx;
+}
+#box5
+{ 
+  width: 90%;
+  margin-left: 12%;
+}

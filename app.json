@@ -1,23 +1,51 @@
 {
   "pages": [
-    "pages/index/index",
-    "pages/logs/logs"
+    "pages/first page/first page",
+    "pages/handtailor/handtailor",
+    "pages/+/+",
+    "pages/cf/cf",
+    "pages/my/my"
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
+    "navigationBarBackgroundColor": "#82C6C7",
+    "navigationBarTitleText": "Ingredient",
     "navigationBarTextStyle": "black"
   },
 
   "tabBar": {
+    "backgroundColor": "#F7F7F7",
+    "borderStyle": "black",
+    "color": "#A6C5BC",
+    "selectedColor": "#82C6C7",
     "list": [
       {
-        "pagePath": "pages/index/index",
+        "pagePath": "pages/first page/first page",
+        "iconPath":"images/first.png",
+        "selectedIconPath":"images/first_select.png",
         "text": "首页"
       },
       {
-        "pagePath": "pages/logs/logs",
+        "pagePath": "pages/handtailor/handtailor",
+        "iconPath": "images/find.png",
+        "selectedIconPath": "images/find_select.png",
+        "text": "专属定制"
+      },
+      {
+        "pagePath": "pages/+/+",
+        "iconPath": "images/add.png",
+        "selectedIconPath": "images/add_select.png"
+      },
+      {
+        "pagePath": "pages/cf/cf",
+        "iconPath": "images/check.png",
+        "selectedIconPath": "images/check_select.png",
+        "text": "成分评测"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "iconPath": "images/my.png",
+        "selectedIconPath": "images/my_select.png",
         "text": "我的"
       }
     ]
